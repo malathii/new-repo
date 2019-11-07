@@ -1,5 +1,2 @@
 #!/bin/bash
-test_func()
-{ 
-	 echo 'test'
- }
+echo "Hello world"
