@@ -1,4 +1,5 @@
 #!/bin/bash
-_test_func(){ 
+_test_func()
+{ 
 	 echo 'test'
  }
