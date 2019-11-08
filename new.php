@@ -1,2 +1,2 @@
-this is from new.php file!!
+This is from new.php file!!
 
